@@ -1,4 +1,4 @@
-<foreignObject> <style>
+<style>
 body{color:#edf2f4ff !important;}
 H1{color:#80ed99ff !important;}
 H2{color:#57cc99ff !important;}
